@@ -1,8 +1,3 @@
-Here's a cleaner and more professional version of your `README.md` for the project titled **my\_first\_react\_app**, created using **CodeSandbox**:
-
----
-
-````markdown
 # 🚀 My First React App
 
 Welcome to **my_first_react_app** – a simple React application built and hosted using [CodeSandbox](https://codesandbox.io/). This project serves as a starting point to explore and understand the fundamentals of React.
